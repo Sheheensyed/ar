@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+    
+}
+
+#main{
+    /* height: 100vh; */
+    width: 100%;
+}
+
+.our-service{
+    background-image: url('https://images.pexels.com/photos/933054/pexels-photo-933054.jpeg?cs=srgb&dl=pexels-joyston-judah-331625-933054.jpg&fm=jpg');
+    height: 150px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+}
+
+.last{
+    background-image: url('https://www.kbb.com/wp-content/uploads/2024/05/interstate-driving.jpg');
+
+    height: 500px;
+    background-size: cover;
+}
+
+.last p{
+    width: 50%;
+    text-align: center;
+}
